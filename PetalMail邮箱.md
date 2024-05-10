@@ -1,5 +1,0 @@
-PetalMail邮箱
-
-1. lishige@petalmail.com
-2. lmfsgx@petalmail.com
-3. dushubaibianzhe@petalmail.com
