@@ -1,4 +1,5 @@
-# mailbox
+# MailBox
+
 | 序号 | 邮箱                          | 来源        |
 | ---- | ----------------------------- | ----------- |
 | 1    | 15511000955@139.com           | 139邮箱     |
@@ -21,7 +22,7 @@
 | 18   | lishige-feedback@outlook.com  | Outlook邮箱 |
 | 19   | lishige@outlook.com           | Outlook邮箱 |
 | 20   | lishige.scapple@outlook.com   | Outlook邮箱 |
-| 21   | li-shige@outlook.com          | Outlook邮   |
+| 21   | li-shige@outlook.com          | Outlook邮箱 |
 | 22   | lishige@protonmail.com        | Proton邮箱  |
 | 23   | lmfsgx@proton.me              | Proton邮箱  |
 | 24   | 2929216794@qq.com             | QQ邮箱      |
